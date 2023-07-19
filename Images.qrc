@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>2.jpeg</file>
+        <file>3.jpeg</file>
+        <file>4.jpeg</file>
+        <file>A.jpeg</file>
+        <file>Unflipped.jpeg</file>
+    </qresource>
+</RCC>
